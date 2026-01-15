@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymanfahim/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/aymanfahim/](https://www.linkedin.com/in/ayman-fahim21/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aymanfahim614@gmail.com"><img src="https://img.shields.io/badge/-Email-EE4C2C?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://aymanfahim.github.io"><img src="https://img.shields.io/badge/-Portfolio_Site-2ea44f?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
