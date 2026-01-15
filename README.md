@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayman-fahim21/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
 </p>
 
 ---
@@ -16,7 +15,7 @@ I am a Computer Science student specializing in **Information Security** and **N
 
 - 🔭 I’m currently working on **enterprise firewall deployment** and **Proxmox virtualization**.
 - 🏆 **IBM SB Hackathon Winner 2025**
-- ☁️ Experienced in **Azure Sentinel**, **Docker**, and **OpenVAS**.
+- ☁️ Experienced in **Docker**, **OpenVAS**, and **Network Security**.
 - 🎓 **Early Quantum Career Immersion (EQCI)** alumnus.
 
 ---
@@ -25,27 +24,30 @@ I am a Computer Science student specializing in **Information Security** and **N
 
 ### 🛡️ BastionX — Information Technology Intern
 *Jan 2026 – Present | New York, NY*
-- **Network Security:** Deployed and configured network firewalls and security controls, integrating them with switching infrastructure.
-- **Virtualization:** Managed virtualized infrastructure using **Proxmox**; provisioned Windows Server and Linux VMs for security testing.
-- **System Hardening:** Performed patching and system configuration across enterprise environments.
+- [cite_start]**Network Security:** Deployed and configured network firewalls and security controls, integrating them with switching infrastructure.
+- [cite_start]**Virtualization:** Managed virtualized infrastructure using **Proxmox**; provisioned Windows Server and Linux VMs for security testing.
+- [cite_start]**System Hardening:** Performed patching and system configuration across enterprise environments.
 
 ### 📊 CUNY Tech Prep — Data Science Fellow
 *Jul 2025 – Present | New York, NY*
-- Selected for a competitive fellowship to build technical data science projects using **Python**, **Pandas**, **SQL**, and **Scikit-learn**.
-- conducting Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
+- [cite_start]Selected for a competitive fellowship to build technical data science projects using **Python**, **Pandas**, **SQL**, and **Scikit-learn**.
+- [cite_start]Conducting Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
 
 ---
 
 ## 🛡️ Featured Projects
 
-### Cloud-Based Security Operations Center (Azure + Sentinel)
-*Team Lead — Oct 2024–Nov 2024* - Deployed a SOC in **Azure** with **Microsoft Sentinel** for centralized monitoring.  
-- Built an **RDP honeypot**, ingested logs with **Azure Monitor Agent**, and utilized **MISP (in Docker)** for threat intelligence enrichment.  
-- Created automated analytic rules to detect and map attacks in real-time.
+### Cybersecurity Home Lab Portfolio
+*Self-Hosted Enterprise Simulation*
+- Designed and deployed a virtualized enterprise environment using **Proxmox** to simulate real-world attack and defense scenarios.
+- Configured **network firewalls** and segmentation to manage traffic between isolated VLANs.
+- Conducted vulnerability assessments using **OpenVAS** and performed system hardening on **Windows Server** and **Linux** endpoints.
+- **Repository:** [Cybersecurity Home Lab Portfolio](https://github.com/AymanFahim21/Cybersecurity-Home-Lab-Portfolio)
 
 ### Quantum Circuit Routing Analysis (Research)
-*EQCI — July 2025–Aug 2025* - Simulated 4-qubit Quantum Fourier Transform (QFT) circuits in **Cirq**.
-- Analyzed **mirror-symmetric vs. asymmetric SWAP routing** to assess fidelity and circuit depth for NISQ optimization.  
+*EQCI — July 2025–Aug 2025*
+- [cite_start]Simulated 4-qubit Quantum Fourier Transform (QFT) circuits in **Cirq**[cite: 41].
+- [cite_start]Analyzed **mirror-symmetric vs. asymmetric SWAP routing** to assess fidelity and circuit depth for NISQ optimization[cite: 42].
 - **Paper:** [Qubit Architecture Research Paper](https://github.com/AymanFahim21/Qubit-Architecture-Project/blob/main/Qubit%20Architecture%20FInal%20Report.pdf)
 
 ---
@@ -63,26 +65,26 @@ I am a Computer Science student specializing in **Information Security** and **N
 
 ### ☁️ Cloud, Security & Tools
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenVAS-0052CC?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firewalls-FF0000?&style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
 ## 📝 Certifications & Awards
-- **Google Cybersecurity Professional Certificate**
-- **IBM SB Hackathon Winner (2025)**
+- [cite_start]**Google Cybersecurity Professional Certificate**
+- [cite_start]**IBM SB Hackathon Winner (2025)** 
 - **Early Quantum Career Immersion (EQCI)**
 
 ---
 
 ## 📫 Connect
 - **Portfolio:** [AymanFahim.github.io](https://aymanfahim.github.io)
-- **LinkedIn:** [linkedin.com/in/aymanfahim](https://www.linkedin.com/in/aymanfahim/)
+- **LinkedIn:** [linkedin.com/in/ayman-fahim21](https://www.linkedin.com/in/ayman-fahim21/)
 - **Email:** aymanfahim614@gmail.com
 
 ---
