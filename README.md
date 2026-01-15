@@ -24,14 +24,14 @@ I am a Computer Science student specializing in **Information Security** and **N
 
 ### 🛡️ BastionX — Information Technology Intern
 *Jan 2026 – Present | New York, NY*
-- [cite_start]**Network Security:** Deployed and configured network firewalls and security controls, integrating them with switching infrastructure.
-- [cite_start]**Virtualization:** Managed virtualized infrastructure using **Proxmox**; provisioned Windows Server and Linux VMs for security testing.
-- [cite_start]**System Hardening:** Performed patching and system configuration across enterprise environments.
+- **Network Security:** Deployed and configured network firewalls and security controls, integrating them with switching infrastructure.
+- **Virtualization:** Managed virtualized infrastructure using **Proxmox**; provisioned Windows Server and Linux VMs for security testing.
+- **System Hardening:** Performed patching and system configuration across enterprise environments.
 
 ### 📊 CUNY Tech Prep — Data Science Fellow
 *Jul 2025 – Present | New York, NY*
-- [cite_start]Selected for a competitive fellowship to build technical data science projects using **Python**, **Pandas**, **SQL**, and **Scikit-learn**.
-- [cite_start]Conducting Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
+- Selected for a competitive fellowship to build technical data science projects using **Python**, **Pandas**, **SQL**, and **Scikit-learn**.
+- Conducting Exploratory Data Analysis (EDA), feature engineering, and machine learning modeling.
 
 ---
 
@@ -46,8 +46,8 @@ I am a Computer Science student specializing in **Information Security** and **N
 
 ### Quantum Circuit Routing Analysis (Research)
 *EQCI — July 2025–Aug 2025*
-- [cite_start]Simulated 4-qubit Quantum Fourier Transform (QFT) circuits in **Cirq**[cite: 41].
-- [cite_start]Analyzed **mirror-symmetric vs. asymmetric SWAP routing** to assess fidelity and circuit depth for NISQ optimization[cite: 42].
+- Simulated 4-qubit Quantum Fourier Transform (QFT) circuits in **Cirq**[cite: 41].
+- Analyzed **mirror-symmetric vs. asymmetric SWAP routing** to assess fidelity and circuit depth for NISQ optimization[cite: 42].
 - **Paper:** [Qubit Architecture Research Paper](https://github.com/AymanFahim21/Qubit-Architecture-Project/blob/main/Qubit%20Architecture%20FInal%20Report.pdf)
 
 ---
@@ -76,8 +76,8 @@ I am a Computer Science student specializing in **Information Security** and **N
 ---
 
 ## 📝 Certifications & Awards
-- [cite_start]**Google Cybersecurity Professional Certificate**
-- [cite_start]**IBM SB Hackathon Winner (2025)** 
+- **Google Cybersecurity Professional Certificate**
+- **IBM SB Hackathon Winner (2025)** 
 - **Early Quantum Career Immersion (EQCI)**
 
 ---
